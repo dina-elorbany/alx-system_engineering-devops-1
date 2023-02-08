@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BASE_DIR
+echo $PWD
